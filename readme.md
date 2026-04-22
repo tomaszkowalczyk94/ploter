@@ -5,3 +5,13 @@ links:
 
 ## SCS8UU dimension
 ![alt text](image.png)
+
+## connections
+
+
+anet a8 board <--> real component
+
+SY connector (stop Y axis) -> stop y axis button
+
+Y motor  <-> right Y axis stepper 
+E motor < -> left Y axis stepper 
